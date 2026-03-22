@@ -1,6 +1,3 @@
-Dựa trên file code `Alltools.py` bạn đã cung cấp, đây là nội dung file `README.md` đầy đủ và chuyên nghiệp nhất để bạn dán vào repository của mình. 
-
-Nội dung này bao gồm đầy đủ từ giới thiệu, cấu trúc thư mục, hướng dẫn cài đặt đến các tính năng chính mà code của bạn đang thực hiện.
 
 ---
 
